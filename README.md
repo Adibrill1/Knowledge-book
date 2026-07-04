@@ -115,11 +115,12 @@ When in doubt, propose living commentary first and canonize later.
 
 Repository foundation is complete.
 
-The current phase is Editorial Phase I:
+The current phase is Editorial Phase II:
 
-1. finalize repository identity
-2. create constitutional documents under `canon/`
-3. establish editorial standards
-4. create publication templates
-5. transform Chapter 1 into the first publication-quality canonical document
+1. define the knowledge grammar
+2. create foundational glossary entries
+3. create reusable implementation patterns
+4. establish relationship and provenance practices
+5. prepare the repository for structured chapter expansion
 
+See `ROADMAP.md` for the current development sequence.

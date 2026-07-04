@@ -26,14 +26,23 @@ Each glossary entry should include:
 
 The initial glossary should include:
 
-- canon
-- commentary
-- provenance
-- relationship
+- `canon.md`
+- `commentary.md`
+- `provenance.md`
+- `relationship.md`
+- `identity.md`
 - context
-- identity
 - trust
 - architecture
 - evolution
 - meaning
 
+## Current Entries
+
+```text
+canon.md          Stable constitutional material.
+commentary.md     Living interpretive material.
+provenance.md     Origin, lineage, and change history.
+relationship.md   Explicit connection between artifacts or concepts.
+identity.md       Stable recognizability across change.
+```

@@ -29,11 +29,17 @@ Each pattern should include:
 
 The first pattern areas should include:
 
-- document identity
-- provenance tracking
+- `document-identity.md`
+- `provenance-tracking.md`
 - relationship mapping
 - canonization workflow
 - chapter publication
 - glossary integration
 - RFC review
 
+## Current Patterns
+
+```text
+document-identity.md      How knowledge artifacts keep stable identity.
+provenance-tracking.md    How origin, lineage, and change history remain visible.
+```
