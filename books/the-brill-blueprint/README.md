@@ -14,7 +14,7 @@ Each chapter should remain an independent Markdown document. The book is not tre
 
 ```text
 Foreword.md
-Chapter-01.md
+Chapter-01.md  The Repository Is The Blueprint
 Chapter-02.md
 Chapter-03.md
 Chapter-04.md
@@ -48,7 +48,6 @@ That means each chapter should include:
 
 ## Current Priority
 
-The next editorial milestone is `Chapter-01.md`.
+The current editorial milestone is `Chapter-01.md`.
 
 Chapter 1 should become the first publication-quality chapter and establish the transition from manuscript to durable knowledge architecture.
-
